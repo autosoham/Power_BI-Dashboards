@@ -1,6 +1,6 @@
 # Power BI Dashboard Portfolio 📊
 ---
-Data Nerds! This repository brings together the Power BI dashboards I’ve built. It reflects my journey with Power BI, starting from foundational reports and progressing to more advanced interactive analyses, all focused on transforming data into clear, actionable insights.
+This repository brings together the Power BI dashboards I’ve built. It reflects my journey with Power BI, starting from foundational reports and progressing to more advanced interactive analyses, all focused on transforming data into clear, actionable insights.
 
 # Featured Dashboards
 ---
